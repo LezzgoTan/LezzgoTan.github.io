@@ -21,8 +21,6 @@ Alright, he's basically the real meaning of overpowered. He has **Raptor Form** 
 
 
 
-### Support or Contact
+### Overall
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-(https://github.com/LezzgoTan/LezzgoTan.github.io/settings/pages)
-[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The most obvious trait among the 3 is how high and unbalanced their survivability and damage capability they possess. If there's one thing the game developers should do in order to balance this is to at least have the knowledge of survivability/damage capability interaction. Kind of like Law of Supply and Demand.
